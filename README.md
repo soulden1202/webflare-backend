@@ -19,13 +19,13 @@ First you have to set up your firebase account fllow these steps:
 
 -Create a .evn file in your root directory add those env varibles to the file you just created:
 
-- FIREBASE_API_KEY=Replace this with your accutall config
-- FIREBASE_AUTH_DOMAIN=Replace this with your accutall config
-- FIREBASE_PROJECT_ID=Replace this with your accutall config
-- FIREBASE_STORAGE_BUCKET=Replace this with your accutall config
-- FIREBASE_MESSAGING_SENDER_ID=Replace this with your accutall config
-- FIREBASE_APP_ID=Replace this with your accutall config
-- FIREBASE_MEASUREMENT_ID=Replace this with your accutall config
+- FIREBASE_API_KEY=Replace this with your config
+- FIREBASE_AUTH_DOMAIN=Replace this with your config
+- FIREBASE_PROJECT_ID=Replace this with your config
+- FIREBASE_STORAGE_BUCKET=Replace this with your config
+- FIREBASE_MESSAGING_SENDER_ID=Replace this with your config
+- FIREBASE_APP_ID=Replace this with your config
+- FIREBASE_MEASUREMENT_ID=Replace this with your config
 
 
 ## npm
