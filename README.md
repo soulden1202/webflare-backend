@@ -17,7 +17,7 @@ First you have to set up your firebase account fllow these steps:
 
 ## env
 
--Create a .evn file in your root directory:
+-Create a .evn file in your root directory add add this to your .env file:
 
 - FIREBASE_API_KEY=Replace this with your config
 - FIREBASE_AUTH_DOMAIN=Replace this with your config
